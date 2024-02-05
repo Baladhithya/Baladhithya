@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Baladhithya
-- 👀 I’m interested in Data analysis and app development
-- 🌱 I’m currently learning Flutter and Data analytics and Java
-- 💞️ I’m looking to collaborate on Data analytics
+- 👀 I’m interested in Data analysis and Full-Stack development
+- 🌱 I’m currently learning Full Stack Development
+-  💞️ I’m looking to collaborate 
 - 📫 baladhithyat@gmail.com
 
 <!---
