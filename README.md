@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Baladhithya
 - 👀 I’m interested in Data analysis and Full-Stack development
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m currently learning Full Stack Development and Artificial Intelligence
 -  💞️ I’m looking to collaborate 
 - 📫 baladhithyat@gmail.com
 
